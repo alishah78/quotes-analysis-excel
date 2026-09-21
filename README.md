@@ -20,3 +20,7 @@ data to a formatted Excel file.
 ## Output
 Generates an Excel report containing quotes with their authors, 
 along with a console summary showing how many quotes each author has.
+
+## Demo Video
+Watch a walkthrough of this project here:
+https://drive.google.com/file/d/1vhFW6tvq-sCRvIUSmCl8Xd7zoTohyOEB/view?usp=drive_link
